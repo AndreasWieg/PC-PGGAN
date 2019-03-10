@@ -1,5 +1,5 @@
-# PC-BIGAN
+# PC-PGGAN
 
-BIGAN from https://arxiv.org/abs/1605.09782
+PGGAN from https://arxiv.org/abs/1710.10196
 
-Implementation of BIGAN for pointclouds using Wasserstein Metric + Gradient penalty of https://arxiv.org/pdf/1704.00028.pdf
+Implementation of PGGAN for pointclouds using Wasserstein Metric + Gradient penalty of https://arxiv.org/pdf/1704.00028.pdf
