@@ -9,3 +9,7 @@ Work in progess
 ## Goal
 
 Learning to represent Pointclouds with more points than 2048. 
+
+## To do
+
+implement 1d_conv_transpose Layer in the generator
